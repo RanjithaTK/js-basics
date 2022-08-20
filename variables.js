@@ -3,3 +3,4 @@
 //var initially used,can be hoisted,functional scope,
 //const : once declared value cant be changed
 //let:block scope,
+//let:block scope,
