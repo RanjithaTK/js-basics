@@ -18,7 +18,6 @@ function getData(api) {
       //   tableData = `<h1>${values.statewise}</h1>`
       // })
       // <th scope="row">${i}</th>
-      // <th scope="row">${i}</th>
 
       document.getElementById("table_body").innerHTML = tableData
     })
